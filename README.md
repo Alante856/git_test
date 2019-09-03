@@ -1,0 +1,1 @@
+This is Alante's first git project!
